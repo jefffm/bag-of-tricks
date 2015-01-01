@@ -1,5 +1,6 @@
 ## ANSI printer
 
+(Font: Andale Mono 13pt)
 ![](screenshot.png)
 
 Are you writing a CLI tool in python, but looking to give it that l33t BBS feel?
